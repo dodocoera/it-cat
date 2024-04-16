@@ -9,3 +9,7 @@ edition = "2021"
 anyhow = "1.0.81"
 clap = { version = "4.5.4", features = ["derive"] }
 qrcode = "0.14.0"
+
+[[bin]]
+name = "icat"
+path = "src/main.rs"
