@@ -9,6 +9,7 @@ Usage: icat.exe <COMMAND>
 
 Commands:
   qr-code  二维码生成
+  base64   base64
   help     Print this message or the help of the given subcommand(s)
 
 Options:
